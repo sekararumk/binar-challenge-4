@@ -1,0 +1,39 @@
+.header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #F1F3FF;
+}
+  
+.a {
+    margin-right: 32px;
+    margin-left: 32px;
+    color: black;
+    text-decoration: none;
+}
+  
+.register {
+    padding: 10px 20px;
+    background-color: #5CB85F;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+    text-decoration: none;
+}
+
+
+.footer {
+    margin-top: -55px;
+    margin-left: 180px;
+    margin-right: 130px;
+    padding-top: 100px;
+    padding-bottom: 10px;
+}
+
+.footer_description {
+    margin-left: 90px;
+    margin-right: 100px;
+}
+
+.img_fluid {
+    margin-right: 15px;
+}

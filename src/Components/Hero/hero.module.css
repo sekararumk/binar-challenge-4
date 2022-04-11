@@ -1,0 +1,28 @@
+.hero{
+    background-color: #F1F3FF;
+}
+
+.hero_description {
+    margin-bottom: 30px;
+}
+
+.hero_subtitle{
+    font-weight: bold;
+}
+  
+@media screen and (min-width: 1024px) {
+    .hero_description {
+        margin-bottom: 0;
+    }
+}
+
+.hero_image {
+    width: 110%;
+}
+  
+@media screen and (min-width: 1024px) {
+    #hero .hero-image {
+      -webkit-transform: translateX(20%);
+              transform: translateX(20%);
+    }
+}
